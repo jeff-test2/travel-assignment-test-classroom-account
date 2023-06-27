@@ -7,7 +7,7 @@ means = input("Please enter a meanse of transportation:")
 # add a comment
 print(f"{name} wants to travel from {start} to {end} by {means}")
 
-1CamelCasevariable = "test"
+CamelCasevariable = "test"
 
 # very long comment line    #################################################################################################################################################
 VERYLONGSTRING = "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
