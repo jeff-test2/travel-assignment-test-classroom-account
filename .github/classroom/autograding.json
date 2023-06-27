@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "auto grade test",
-      "setup": "",
+      "setup": "pip install pytest",
       "run": "pytest test_travel.py",
       "input": "",
       "output": "",
